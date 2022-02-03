@@ -1,5 +1,6 @@
-# -INVINCIX-Campus-Drive
-Answer Submission
+# - INVINCIX-Campus-Drive
+# - Answer Submission
+
 n=int(input())
 x=[]
 for i in range(0,n):
